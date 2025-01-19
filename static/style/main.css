@@ -33,7 +33,6 @@ body {
 .hero-heading {
     display: flex;
     flex-direction: column;
-    font-family: "zapfino";
 }
 
 .hero-title {
@@ -46,6 +45,10 @@ body {
 
 .info {
     width: 100%;
+}
+
+.info h1 {
+    font-family: "zapfino";
 }
 
 /* Menu and menu options */
@@ -148,7 +151,7 @@ footer a:hover {
 /* Display For Mobiles */
 @media screen and (max-width: 768px) {
     * {
-        font-size: 12px;
+        font-size: 13px;
     }
 
     #menu-img {

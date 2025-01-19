@@ -1,0 +1,162 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fefefe;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, #ba69e5, #d4a5ed);
+    color: #fff;
+    text-align: center;
+    padding: 50px 10px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin: 10px 0 20px;
+    padding-bottom: 20px;
+}
+
+.hero-heading {
+    display: flex;
+    flex-direction: column;
+    font-family: "zapfino";
+}
+
+.hero-title {
+    align-self: center;
+}
+
+.title2 {
+    text-align: left;
+}
+
+.info {
+    width: 100%;
+}
+
+/* Menu and menu options */
+.menu {
+    width: 0%;
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    z-index: 10;
+}
+
+.menu-options {
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10%;
+    padding: 10px;
+    z-index: 20;
+}
+
+.menu-item {
+    display: block;
+    color: #333;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.menu-item:hover {
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
+
+.cta-button {
+    background-color: #ff6f61;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.cta-button:hover {
+    background-color: #ff867f;
+}
+
+/* Features Section */
+.features {
+    padding: 50px 20px;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+.features h2 {
+    font-size: 2.5rem;
+    color: #ff6f61;
+    margin-bottom: 30px;
+}
+
+.feature {
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.feature h3 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.feature p {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #ff9a9e;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Display For Mobiles */
+@media screen and (max-width: 768px) {
+    * {
+        font-size: 12px;
+    }
+
+    img {
+        height: 17px;
+        width: 17px;
+    }
+
+    .hero {
+        padding: 50px 5px;
+    }
+}

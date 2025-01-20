@@ -169,7 +169,7 @@ footer a:hover {
 }
 
 /* Display for Mini Smartphones */
-@media screen and (max-width: 392px) {
+@media screen and (max-width: 370px) {
     .info p {
         font-size: 1.1rem;
     }

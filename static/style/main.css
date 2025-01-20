@@ -167,7 +167,7 @@ footer a:hover {
 /* Display For Mobiles */
 @media screen and (max-width: 365px) {
     * {
-        font-size: 10px;
+        font-size: 11px;
     }
 
     #menu-img {

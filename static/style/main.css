@@ -167,7 +167,7 @@ footer a:hover {
 /* Display for Mini Smartphones */
 @media screen and (max-width: 365px) {
     * {
-        font-size: 11px;
+        font-size: 10.5px;
     }
 
     #menu-img {

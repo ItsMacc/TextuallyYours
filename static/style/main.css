@@ -165,7 +165,7 @@ footer a:hover {
 }
 
 /* Display For Mobiles */
-@media screen and (max-width: 409px) {
+@media screen and (max-width: 380px) {
     * {
         font-size: 10px;
     }

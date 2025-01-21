@@ -47,6 +47,10 @@ body {
     width: 100%;
 }
 
+.info p {
+    font-size: 1rem;
+}
+
 .info h1 {
     font-family: "zapfino";
 }
@@ -125,7 +129,7 @@ body {
 }
 
 .feature p {
-    font-size: 1rem;
+    font-size: 1.1rem;
     color: #666;
 }
 
@@ -155,8 +159,9 @@ footer a:hover {
 /* Display For Mobiles */
 @media screen and (max-width: 640px) {
     * {
-        font-size: 12.5px;
+        font-size: 0.9rem;
     }
+
 
     #menu-img {
         height: 20px;
@@ -169,9 +174,14 @@ footer a:hover {
 }
 
 /* Display for Mini Smartphones */
-@media screen and (max-width: 370px) {
-    .info p {
-        font-size: 1.1rem;
+@media screen and (max-width: 420px) {
+    * {
+        font-size: 0.85rem;
+    }
+
+    .features h2 {
+        font-size: 2rem;
+
     }
 
     #logo {

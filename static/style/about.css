@@ -26,4 +26,8 @@
     .text {
         font-size: 0.95rem;
     }
+
+    h2, h3 {
+        font-size: 1rem;
+    }
 }

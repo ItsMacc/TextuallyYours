@@ -13,25 +13,11 @@
     max-width: 95%;
     margin: 0 auto;
     line-height: 1.6;
-    font-size: 1.1rem;
+    font-size: 1rem;
     transition: transform 0.2s ease-in-out;
 }
 
 .text:hover {
     transform: translateY(-4px);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
-}
-
-
-/* Media Queries */
-
-/* Display for Mini Smartphones */
-@media screen and (max-width: 480px) {
-    h2, h3 {
-        font-size: 1.2rem;
-    }
-
-    .text {
-        font-size: 1.1rem;
-    }
 }

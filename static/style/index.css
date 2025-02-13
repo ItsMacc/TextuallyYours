@@ -1,21 +1,5 @@
 /* Media Queries */
 
-/* Display For mobiles */
-@media screen and (max-width: 640px) {
-    * {
-        font-size: 0.9rem;
-    }
-
-    #menu-img {
-        height: 20px;
-        width: 20px;
-    }
-
-    .hero {
-        padding: 50px 5px;
-    }
-}
-
 /* Display for smaller smartphones */
 @media screen and (max-width: 450px) {
     .hero h1 {

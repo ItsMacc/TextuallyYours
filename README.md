@@ -23,16 +23,15 @@
 
 ### For Windows Users:
 **Download the Windows App**:
-- Visit the [GitHub tags section](https://github.com/ItsMacc/Textually-Yours-App/tags) to download the `.exe` file under the latest release.
-- Select the latest version, and click on the "source code".
-- Open the folder and download "Textually Yours.exe".
-- If you are running the application for the first time, the installer will be opened. Finish the process and the app should be created on the desktop.
+- Visit the [GitHub releases section](https://github.com/ItsMacc/TextuallyYours/releases) to download the `.exe` file under the latest release.
+- Select the latest version, and click on `Textually.Yours.exe`.
+- If you downloaded the exe, you may encounter an error stating 'app if from an unidentified developer'. Click "proceed anyways" (Trust me, my app is not a virus).
+- Finish the installation process, and a shortcut will automatically be created for you on your desktop.
 
 **Download the macOS App**:
-- Visit the [GitHub tags section](https://github.com/ItsMacc/Textually-Yours-App/tags) to download the `.pkg` file under the latest release.
-- Select the latest version, and click on the "source code".
-- Open the folder and download "Textually Yours.pkg".
-- If you are running the application for the first time, you may encounter an error stating 'macOS cannot verify the app'. Go to settings > privacy and security > security (scroll down) and click on 'open anyway'.
+- Visit the [GitHub releases section](https://github.com/ItsMacc/TextuallyYours/releases) to download the `.pkg` file under the latest release.
+- Select the latest version, and click on `Textually.Yours.pkg`.
+- If you are running the application for the first time, you may encounter an error stating 'app is from an unidentified developer'. Click "proceed anyways" (Trust me, my app is not a virus).
 - Finish the installation process and open the app from the applications. (Or search for Textually Yours to start the app from there!).
 
 That’s it! You’re all set to enjoy **Textually Yours**. If you encounter any issues during installation, feel free to contact me through [textuallyyoursco@gmail.com](mailto:textuallyyoursco@gmail.com)

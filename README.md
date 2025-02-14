@@ -31,7 +31,7 @@
 **Download the macOS App**:
 - Visit the [GitHub releases section](https://github.com/ItsMacc/TextuallyYours/releases) to download the `.pkg` file under the latest release.
 - Select the latest version, and click on `Textually.Yours.pkg`.
-- If you are running the application for the first time, you may encounter an error stating 'app is from an unidentified developer'. Open settings -> Privacy and Security -> (Scroll Down) -> Open anyways. (Trust me, my app is not a virus).
+- If you are running the application for the first time, you may encounter an error stating 'app is from an unidentified developer'. Click done first, then open settings -> Privacy and Security -> (Scroll Down) -> Open anyways. (Trust me, my app is not a virus).
 - Finish the installation process and open the app from the applications. (Or search for Textually Yours to start the app from there!).
 
 That’s it! You’re all set to enjoy **Textually Yours**. If you encounter any issues during installation, feel free to contact me through [textuallyyoursco@gmail.com](mailto:textuallyyoursco@gmail.com)
